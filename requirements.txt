@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+transformers
+torch
+fastapi
+uvicorn
+streamlit
+matplotlib
+seaborn
+wordcloud
+datasets
+nltk
+tqdm
+pydantic
